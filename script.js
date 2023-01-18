@@ -58,12 +58,10 @@ wrapper.innerHTML = magazines.cards
     (b, ) =>
       `<div class="box">    
     <div class="magazines">
-      <div class="topcontainer">
         <div class="titlecontainer">
           <span class="title">${b.title}</span>
           </div>
           <div class="order">$ ${b.sub} / YEAR</div>
-      </div>
       <div class="textcontainer">
         <span class="text">${b.text}</span>
       </div>
