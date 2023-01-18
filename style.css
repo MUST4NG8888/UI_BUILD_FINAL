@@ -97,7 +97,6 @@ nav {
   border-left: 1px solid var(--dark);
   border-right: 1px solid var(--dark);
   border-top: 1px solid var(--dark);
-  font-weight: bolder;
   color: var(--dark);
   padding: 20px 20px 60px;
   flex: auto
